@@ -1,2 +1,2 @@
 # hello-world
-demo
+This is a practicing text copying what the tutorial says.
